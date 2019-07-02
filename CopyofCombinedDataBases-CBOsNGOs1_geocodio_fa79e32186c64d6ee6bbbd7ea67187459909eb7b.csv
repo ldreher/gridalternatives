@@ -1,4 +1,4 @@
-"Organization ",Name,E-mail,Personalized,Phone,Geography,"Type ",Priority,"Invited (StD) to WG1","Relatioship with",Source,Address,Latitude,Longitude,"Accuracy Score","Accuracy Type",Number,Street,City,State,County,Zip,Country,Source
+"Organization ",Name,E-mail,Personalized,Phone,Geography,"Type ",Priority,"Invited (StD) to WG1","Relatioship with",Source,Address,Latitude,Longitude,"Accuracy Score","Accuracy Type",Number,Street,City,State,County,Zip,Country,
 "Central Coast Alliance United for A Sustainable Economy","Maricela Morales",maricela@causenow.org,No," ","Central Coast",CBO,1,yes,,CARB,"126 E. Haley St. #A12
 Santa Barbara, CA 93101",34.418211,-119.693038,1,rooftop,126,"E Haley St","Santa Barbara",CA,"Santa Barbara County",93101,US,"Santa Barbara County"
 "Center for Community Action and Environmental Justice","Allen Hernandez",allen.h@ccaej.org,Yes,,"Inland Empire",CBO,1,Yes,,CARB," 3840 Sunnyhill Dr. Jurupa Valley, CA 92509",34.012416,-117.449721,0.6,street_center,,"Sunnyhill Dr",Riverside,CA,"Riverside County",92509,US,"TIGER/Line® dataset from the US Census Bureau"
@@ -78,7 +78,8 @@ TransForm,"Joy Massey",jmassey@transformca.org,Yes,,State,NGO,1,yes,"SUMC and GR
 "Stanford’s Center on Poverty and Inequality",,inequality@stanford.edu,Yes,,State,NGO,2,,,GRID,,0,0,0,,,,,,,,,
 "California’s Budget and Policy Center","Sara Kimberlin",skimberlin@calbudgetcenter.org,Yes,,State,NGO,1,yes,,GRID,,0,0,0,,,,,,,,,
 "NeighborWorks Homeownership Center","Beilul Naizghi",bnaizghi@nwsac.org,No,,,,1,yes,,,,0,0,0,,,,,,,,,
-"Clean and Green Pomona","Kyle Brown","cleangreenpomona@gmail.com",,"(909) 910 - 3812","Los Angeles",CBO,2,,,CARB,,0,0,0,,,,,,,,,
+"Clean and Green Pomona","Kyle Brown","cleangreenpomona@
+gmail.com",,"(909) 910 - 3812","Los Angeles",CBO,2,,,CARB,,0,0,0,,,,,,,,,
 "Coalition for a Safe Environment","Jesse Marquez",,,"(310) 834-2016","Los Angeles",CBO,2,,,CARB,,0,0,0,,,,,,,,,
 "California Climate and Agriculture Network","Lauren Lum",lauren@calclimateag.org,,"(916) 441-4042",State,NGO,,,,CARB,,0,0,0,,,,,,,,,
 CycLAvia,"Tafarai Bayne",tafarai@ciclavia.org,,,"Los Angeles",CBO,2,,,CARB,,0,0,0,,,,,,,,,
